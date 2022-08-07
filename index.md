@@ -1,37 +1,31 @@
 ## Landscape Crop Assessment Survey (LCAS)
 
-You can use the [editor on GitHub](https://github.com/AntonUrfels/LCAS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Paste Intro an overview here.
 
 ### Objective
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Explain LCAS objectives here.
 
-```markdown
-Syntax highlighted code block
+### LCAS products
 
-# Methodology
-## Sampling
-### Header 3
+#### LCAS based surveys here with link.
 
-- Bulleted
-- List
+ - Eastern India Rice Survey 2018 : https://hdl.handle.net/11529/10548656
+ - Nepal Rice Survey 2016: https://hdl.handle.net/11529/10968
+ - etc. 
 
-1. Numbered
-2. List
+#### Integrated database:
+- Link to integrated LCAS database
+- 
 
-**Bold** and _Italic_ and `Code` text
+#### R package for processing and analysis
 
-[Link](url) and ![Image](src)
-```
+Link of R package for processing and setup.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### Drag and drop system for ODK survey templates
 
-### Jekyll Themes
+Links to key template repo.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AntonUrfels/LCAS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Methodology
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Explain methodology here.
