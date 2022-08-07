@@ -34,4 +34,4 @@ Provide link to documentation.
 
 ### Key publications
 
-- [McDonald et al. (2022) Time management governs climate resilience and productivity in the coupled rice–wheat cropping systems of eastern India. Nature Food (3)](https://doi.org/10.1038/s43016-022-00549-0)
+- [McDonald et al. (2022) Time management governs climate resilience and productivity in the coupled rice–wheat cropping systems of eastern India. Nature Food (3).](https://doi.org/10.1038/s43016-022-00549-0)
