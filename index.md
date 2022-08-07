@@ -8,7 +8,7 @@ Explain LCAS objectives here.
 
 ### LCAS products
 
-#### LCAS based surveys here with link.
+#### LCAS based surveys
 
  - [Eastern India Rice Survey 2018](https://hdl.handle.net/11529/10548656)
  - [Nepal Rice Survey 2016](https://hdl.handle.net/11529/10968)
