@@ -10,13 +10,13 @@ Explain LCAS objectives here.
 
 #### LCAS based surveys here with link.
 
- - Eastern India Rice Survey 2018 : https://hdl.handle.net/11529/10548656
- - Nepal Rice Survey 2016: https://hdl.handle.net/11529/10968
+ - [Eastern India Rice Survey 2018](https://hdl.handle.net/11529/10548656)
+ - [Nepal Rice Survey 2016](https://hdl.handle.net/11529/10968)
  - etc. 
 
 #### Integrated database:
 - Link to integrated LCAS database
-- 
+
 
 #### R package for processing and analysis
 
