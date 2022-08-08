@@ -28,7 +28,7 @@ Links to key template repo.
 1. Standardize variable naming for each country's latest xlsx forms.
 2. Host xlsx forms on github (or any other suitable place) for deployment with URL.
 3. Produce generic, region and crop agnostic drag and drop system.
-3.1 Use wide format ODK output generation. Convert to long format throuh R.
+- Use wide format ODK output generation. Convert to long format throuh R.
 
 
 ### Methodology
