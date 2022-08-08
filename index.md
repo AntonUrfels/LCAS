@@ -25,6 +25,10 @@ Link of R package for processing and setup.
 #### Drag and drop system for electronic data collection
 
 Links to key template repo.
+- Standardize variable naming for each country's latest xlsx forms.
+- Host xlsx forms on github for deployment with URL.
+- 
+
 
 ### Methodology
 
