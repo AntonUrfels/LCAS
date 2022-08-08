@@ -22,7 +22,7 @@ Explain LCAS objectives here.
 
 Link of R package for processing and setup.
 
-#### Drag and drop system for ODK survey templates
+#### Drag and drop system for electronic data collection
 
 Links to key template repo.
 
