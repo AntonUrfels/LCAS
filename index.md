@@ -27,7 +27,8 @@ Link of R package for processing and setup.
 Links to key template repo.
 - Standardize variable naming for each country's latest xlsx forms.
 - Host xlsx forms on github (or any other suitable place) for deployment with URL.
-- 
+
+- Produce generic, region and crop agnostic drag and drop system.
 
 
 ### Methodology
