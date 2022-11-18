@@ -9,7 +9,7 @@ Explain LCAS objectives here.
 ### LCAS products
 
 #### XLSX Forms
- - [Nepal-Rice](/../../tree/main/data/xlsx_deployed/np_rice.xlsx)
+ - [Nepal-Rice](https://github.com/AntonUrfels/LCAS/blob/main/data/xlsx_deployed/np_rice.xlsx)
  - [Nepal-Wheat](data/xlsx_deployed/np_wheat.xlsx)
  - [India-Multi](data/xlsx_deployed/in_multi.xlsx)
  - [Bangladesh-Rice](data/xlsx_deployed/bd_rice.xslsx)
