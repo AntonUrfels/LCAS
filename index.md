@@ -8,6 +8,14 @@ Explain LCAS objectives here.
 
 ### LCAS products
 
+#### XLSX Forms
+ - [Nepal-Rice](data/xlsx_deployed/np_rice.xlsx)
+ - [Nepal-Wheat](data/xlsx_deployed/np_wheat.xlsx)
+ - [India-Multi](data/xlsx_deployed/in_multi.xlsx)
+ - [Bangladesh-Rice](data/xlsx_deployed/bd_rice.xslsx)
+
+
+
 #### LCAS based surveys
 
  - [Eastern India Rice Survey 2018](https://hdl.handle.net/11529/10548656)
