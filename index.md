@@ -18,8 +18,12 @@ Explain LCAS objectives here.
 #### LCAS based surveys
 
  - [Eastern India Rice Survey 2018](https://hdl.handle.net/11529/10548656)
+ - [Eastern Inida Rice Survey 2017](https://hdl.handle.net/11529/10548605)
+ - [Eastern Inida Wheat Survey 2018](https://hdl.handle.net/11529/10548507) 
  - [Nepal Rice Survey 2016](https://hdl.handle.net/11529/10968)
- - etc. 
+ - [Nepal Wheat Survey 2016](https://hdl.handle.net/11529/10548615)
+ - [Nepal Lentil Survey 2015](https://hdl.handle.net/11529/10548086)
+ 
 
 #### Integrated database:
 - Link to integrated LCAS database
