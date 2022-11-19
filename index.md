@@ -10,9 +10,7 @@ Explain LCAS objectives here.
 
 #### Household module
 
-`
-THis is some code
-`
+    THis is some code
 
 
 ### LCAS products
