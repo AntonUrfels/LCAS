@@ -6,6 +6,15 @@ Paste Intro an overview here.
 
 Explain LCAS objectives here.
 
+### LCAS Modules
+
+#### Household module
+
+`
+THis is some code
+`
+
+
 ### LCAS products
 
 #### XLSX Forms
